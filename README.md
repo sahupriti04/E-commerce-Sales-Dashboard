@@ -61,4 +61,4 @@ The projects cover:
 
 # Author
 
-Priti Sahu
+Priti Kumari
